@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architectural Prompt"
+  short_description: "生成建筑、室内、景观与城市设计可视化提示词并适配图像工具"
+  default_prompt: "使用 $arch-prompt 把这个建筑设计意图整理成可直接生成图像的提示词。"
