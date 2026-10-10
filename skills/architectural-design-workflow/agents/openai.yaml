@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architectural Design Workflow"
+  short_description: "建筑与室内空间分析、BIM/CAD、参数化建模与可视化"
+  default_prompt: "使用 $architectural-design-workflow 规划、分析或表达这个建筑空间；先匹配 BIM、CAD、建模和可视化工具，并核验当前连接与交付格式。"
